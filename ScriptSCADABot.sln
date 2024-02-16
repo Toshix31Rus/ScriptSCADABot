@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33927.289
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScriptSCADABot", "ScriptSCADABot\ScriptSCADABot.csproj", "{1674DFBD-B828-4095-8C06-137CF7E17BE7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1674DFBD-B828-4095-8C06-137CF7E17BE7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1674DFBD-B828-4095-8C06-137CF7E17BE7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1674DFBD-B828-4095-8C06-137CF7E17BE7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1674DFBD-B828-4095-8C06-137CF7E17BE7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {51BC3634-4170-4321-A1FC-8D79C71A50C1}
+	EndGlobalSection
+EndGlobal
